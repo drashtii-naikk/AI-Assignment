@@ -2,9 +2,10 @@
 
 ## Group Members:
 Group Members:
-[Member 1 Name] - Roll No: [Roll Number]
-[Member 2 Name] - Roll No: [Roll Number]
-[Member 3 Name] - Roll No: [Roll Number]
+Dhrumil Kanani KU2407U
+Drashti Naik KU2407U479
+Het Pipaliya KU2407U
+Fa
 (Add more members if needed)
 
 
@@ -18,12 +19,12 @@ Libraries/Frameworks:
 [Library 2 (e.g., Flask, Django, NumPy)]
 [Library 3 (e.g., scikit-learn, Matplotlib)]
 Other Tools: [e.g., Git, Docker, Jupyter Notebook]
-Data Source(s):
+## Data Source(s):
 [Dataset 1 Name]: [e.g., Kaggle, UCI Machine Learning Repository]
 Description: [Briefly describe the data used and its relevance to the project]
 [Dataset 2 Name]: [e.g., API, Web Scraping, Company Database]
 Description: [Briefly describe the second data source, if applicable]
-Execution Steps:
+## Execution Steps:
 To run the project, follow these steps:
 
 Clone the Repository:
@@ -56,7 +57,7 @@ python manage.py runserver  # Django
 Access the Application:
 Open your browser and navigate to http://localhost:5000 (or the relevant port) to see the application in action.
 
-Summary of Results:
+## Summary of Results:
 Key Findings: After running the project, the following key results were observed:
 
 [Briefly summarize the main results of the project, like model performance, tool functionality, etc.]
@@ -64,7 +65,7 @@ Key Findings: After running the project, the following key results were observed
 [If your project produces visual outputs, mention them here or reference any screenshots.]
 Impact: [Explain how the results can be useful in real-world applications or how they contribute to the field.]
 
-Challenges Faced:
+## Challenges Faced:
 During the development of the project, we encountered several challenges:
 
 Data Quality Issues: The data was incomplete/dirty, which required significant preprocessing and cleaning.
