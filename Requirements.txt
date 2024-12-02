@@ -1,4 +1,4 @@
-pandas
-matplotlib
-matplotlib-inline
-seaborn
+# pandas
+# matplotlib
+# matplotlib-inline
+# seaborn
