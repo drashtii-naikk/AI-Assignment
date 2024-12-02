@@ -1,10 +1,10 @@
 # Renewable Energy Usages
 
 ## Group Members:
-### Dhrumil Kanani KU2407U
+### Dhrumil Kanani KU2407U477
 ### Drashti Naik KU2407U479
-### Het Pipaliya KU2407U
-### Farrel Fernandez KU2407U
+### Het Pipaliya KU2407U480
+### Farrel Fernandez KU2407U481
 
 
 ## Objective of the Project:
@@ -20,14 +20,15 @@ Libraries/Frameworks:
 
 
 ## Data Source(s):
-1. International renewable energy Agency:
-2. U.S Energy information administration:
-3. Renewable global status report:
+1. International renewable energy Agency:   https://www.irena.org/
+2. U.S Energy information  administration: https://www.eia.gov/
+3. Renewable global status report: https://www.ren21.net/reports/global-status-report/
 4. International energy agency:
+https://www.iea.org/
 
 
 ## Summary of Results:
-The project focuses on leveraging AI to promote efficient and sustainable renewable energy usage. It involves analyzing energy consumption patterns, forecasting demand, and optimizing resource allocation for renewable sources such as solar, wind, and hydroelectric power. By integrating real-time data and predictive modeling, the project aims to enhance energy efficiency, reduce dependency on non-renewable sources, and minimize environmental impact. The insights generated will support stakeholders, including energy providers and policymakers, in making data-driven decisions for a greener and more sustainable energy future.
+The project focuses on leveraging AI to promote efficient and sustainable renewable energy usage. It involves analyzing energy consumption patterns, forecasting demand, and optimizing resource allocation for renewable sources such as solar, wind, and hydroelectric power. By integrating real-time data and predictive modeling, the project aims to enhance energy efficiency, reduce dependency on non-renewable sources, and minimize environmental impact.
 
 
 ## Challenges Faced:
