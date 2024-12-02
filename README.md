@@ -3,8 +3,8 @@
 ## Group Members:
 ### Dhrumil Kanani KU2407U477
 ### Drashti Naik KU2407U479
-### Het Pipaliya KU2407U480
-### Farrel Fernandez KU2407U481
+### Farrell Fernandez KU2407U480
+### Het Pipaliya KU2407U481
 
 
 ## Objective of the Project:
